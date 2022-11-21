@@ -13,9 +13,9 @@ h1{
 }
 .form input{
     width: 400px;
-    height: 30px;
+    height: 35px;
     border-radius: 5px;
-    border: solid 3px #343434;
+    border: solid 3px #d1d1d1;
     margin-bottom: 20px;
     font-size: 17px;
 }
@@ -29,7 +29,7 @@ textarea{
     width: 400px;
     border-radius: 5px;
     border: solid 1px rgb(202, 202, 202);
-    border: solid 3px #343434;
+    border: solid 3px #d1d1d1;
 }
 textarea:hover{
     border: solid 3px #059862;
