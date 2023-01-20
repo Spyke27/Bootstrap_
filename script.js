@@ -29,7 +29,7 @@ function validaEmail(){
         emailOk = true
     }
 }
-
+//Eventos 
 btn.addEventListener("click", function() {
     if(emailOk == true && nomeOk == true){
         alert('Email enviado com sucesso!')
